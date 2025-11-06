@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy – NoHung</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px;">
+  <h1>Privacy Policy for NoHung</h1>
+  <p><strong>Effective Date:</strong> November 6, 2025</p>
+
+  <p>NoHung ("we", "our", or "us") values your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use the NoHung app and related services.</p>
+
+  <h2>1. Information We Collect</h2>
+  <ul>
+    <li>Name</li>
+    <li>Phone Number</li>
+    <li>Email Address (if provided)</li>
+    <li>Delivery or Pickup Address</li>
+    <li>Order and Transaction Details</li>
+    <li>Device and App Usage Information (for analytics and improvement)</li>
+  </ul>
+
+  <h2>2. How We Use Your Information</h2>
+  <ul>
+    <li>Create and manage your NoHung login</li>
+    <li>Authenticate users via OTP or email</li>
+    <li>Process and deliver food or product orders</li>
+    <li>Provide customer support and communication</li>
+    <li>Send important updates, offers, and notifications</li>
+    <li>Improve app performance and user experience</li>
+  </ul>
+
+  <h2>3. Data Sharing</h2>
+  <p>We <strong>do not sell or rent</strong> your personal data to anyone. Your information may be shared only with:</p>
+  <ul>
+    <li><strong>Delivery partners</strong> – to deliver your orders (limited to name, contact, and address)</li>
+    <li><strong>Payment processors</strong> – to complete secure transactions</li>
+    <li><strong>Service providers</strong> – for hosting, analytics, and notifications</li>
+  </ul>
+
+  <h2>4. Data Security</h2>
+  <p>Your information is transmitted securely over HTTPS and stored using industry-standard protections. Access is restricted to authorized personnel only.</p>
+
+  <h2>5. User Rights</h2>
+  <p>As a NoHung user, you have the right to:</p>
+  <ul>
+    <li>Access and review your personal information</li>
+    <li>Request corrections for inaccurate data</li>
+    <li>Withdraw consent to data use (which may affect login or service access)</li>
+  </ul>
+
+  <h2>6. Children’s Privacy</h2>
+  <p>NoHung is not intended for users under the age of 13. We do not knowingly collect data from children.</p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy periodically. All updates will be posted on this page with the revised effective date.</p>
+
+  <h2>8. Contact Us</h2>
+  <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+  <p><strong>Email:</strong> <a href="mailto:support@nohung.com">support@nohung.com</a></p>
+</body>
+</html>
